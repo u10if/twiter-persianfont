@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Custom Font for Twitter",
+    "version": "1.0",
+    "description": "Load a custom font from a URL when visiting twitter.com",
+    "permissions": ["https://twitter.com/*"],
+    "content_scripts": [
+      {
+        "matches": ["https://twitter.com/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "icons": {
+      "48": "icon.png"
+    }
+  }

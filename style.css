@@ -1,0 +1,9 @@
+/* Apply the custom font and additional styles to all text elements on Twitter */
+body, p, h1, h2, h3, h4, h5, h6, a, span, input, textarea, button {
+    font-family: 'CustomFont', sans-serif !important;
+    margin-bottom: 16px;
+    font-size: 14px;
+    font-weight: 100;
+    font-variation-settings: "wght" 500;
+    line-height: 24px;
+  }

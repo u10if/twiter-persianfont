@@ -1,3 +1,8 @@
+تغییر فونت توییتر در مرورگر کروم با فونت وزیر<br>
+مرورگر کروم را باز کنید <br>
+داخل کروم  chrome://extensions/.  را وارد کنید<br>
+"Developer mode" را فعال کنید
+روی load unpacked کلیک کنید و فولدر دانلود شده را انتخاب کنید.
 # twiter-persianfont
 Open Chrome and go to chrome://extensions/. <br>
 Enable "Developer mode" in the top right corner. <br>
